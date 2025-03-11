@@ -10,4 +10,4 @@ This is a maven built app without GUI.
     - using of square and hexagonal grids
     - thresholding
     - squelletization
-    - minutiae extraction
+    - minutiae extractio
